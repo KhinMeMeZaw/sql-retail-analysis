@@ -1,4 +1,4 @@
-# 🛒 Retail Sales Business Analysis using SQL
+# Retail Sales Business Analysis using SQL
 
 ![Python](https://img.shields.io/badge/Python-3.10-blue?logo=python)
 ![SQLite](https://img.shields.io/badge/Database-SQLite-lightblue?logo=sqlite)
@@ -12,7 +12,7 @@
 
 ---
 
-## 📌 Project Overview
+## Project Overview
 
 This project demonstrates a full **SQL-based business analysis workflow** using real-world retail transaction data. It answers 10 meaningful business questions using SQL queries — covering revenue, product performance, customer behavior, and segmentation — all within a Google Colab environment using Python and SQLite.
 
@@ -20,7 +20,7 @@ The project reflects the kind of analysis a data analyst would perform for a ret
 
 ---
 
-## 🎯 Business Questions Answered
+##  Business Questions Answered
 
 | # | Question | Insight Type |
 |---|---|---|
@@ -37,7 +37,7 @@ The project reflects the kind of analysis a data analyst would perform for a ret
 
 ---
 
-## 📊 Sample Visualizations
+##  Sample Visualizations
 
 | Chart | Description |
 |---|---|
@@ -51,7 +51,7 @@ The project reflects the kind of analysis a data analyst would perform for a ret
 
 ---
 
-## 🗂️ Project Structure
+##  Project Structure
 
 ```
 sql-retail-analysis/
@@ -69,7 +69,7 @@ sql-retail-analysis/
 
 ---
 
-## 📦 Dataset
+## Dataset
 
 **Online Retail Dataset**
 - Source: [UCI Machine Learning Repository](https://archive.ics.uci.edu/ml/datasets/Online+Retail)
@@ -81,7 +81,7 @@ sql-retail-analysis/
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 | Tool | Purpose |
 |---|---|
@@ -93,7 +93,7 @@ sql-retail-analysis/
 
 ---
 
-## 🚀 How to Run
+## How to Run
 
 ### Option 1 — Google Colab (Recommended)
 1. Open [Google Colab](https://colab.research.google.com/)
@@ -117,7 +117,7 @@ jupyter notebook notebooks/SQL_Business_Analysis_Colab.ipynb
 
 ---
 
-## 💡 Key Business Insights
+##  Key Business Insights
 
 - **UK dominates revenue** — accounts for ~85% of total sales; international markets are underdeveloped
 - **Top 10 products drive majority of revenue** — classic Pareto (80/20) pattern observed
@@ -128,7 +128,7 @@ jupyter notebook notebooks/SQL_Business_Analysis_Colab.ipynb
 
 ---
 
-## 🔑 SQL Skills Demonstrated
+##  SQL Skills Demonstrated
 
 - `GROUP BY` with aggregation (`SUM`, `COUNT`, `AVG`, `ROUND`)
 - `ORDER BY` + `LIMIT` for ranking
@@ -143,7 +143,7 @@ jupyter notebook notebooks/SQL_Business_Analysis_Colab.ipynb
 
 ---
 
-## 📁 About the Author
+##  About the Author
 
 **Khin Me Me Zaw**
 - MSc Digital Transformation Technology, Mae Fah Luang University (2024–Present)
