@@ -1,11 +1,5 @@
 # Retail Sales Business Analysis using SQL
 
-![Python](https://img.shields.io/badge/Python-3.10-blue?logo=python)
-![SQLite](https://img.shields.io/badge/Database-SQLite-lightblue?logo=sqlite)
-![Pandas](https://img.shields.io/badge/Pandas-Data%20Analysis-purple?logo=pandas)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-Visualization-orange)
-![Platform](https://img.shields.io/badge/Platform-Google%20Colab-yellow?logo=googlecolab)
-![Status](https://img.shields.io/badge/Status-Completed-brightgreen)
 
 > **Portfolio Project — SQL Business Analysis**  
 > **Author:** Khin Me Me Zaw | [LinkedIn](https://www.linkedin.com/in/khin-me-me-zaw-a8356317b/) | [GitHub](https://github.com/KhinMeMeZaw)
